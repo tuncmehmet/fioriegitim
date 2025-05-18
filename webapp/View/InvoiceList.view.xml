@@ -12,7 +12,7 @@
          sorter : 
         [
             {
-            path : 'ProductName',
+            path : 'ShipperName',
             descending : true,
             group : true
             },
